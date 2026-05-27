@@ -1,0 +1,5 @@
+email,password,nome,cognome,codiceFiscale,livelloAccesso,matricola,ruolo
+mario.rossi@email.it,Password123,Mario,Rossi,RSSMRA80A01H501Z,,,Cliente
+controllore@sistema.it,CtrlPass123,Luigi,Verdi,,,MAT12345,Controllore
+admin@sistema.it,AdminPass123,Anna,Neri,,1,,Amministratore
+Fino@email.it,FinoFino,Francesco,Fino,BOHCH3N3S0,,,Cliente

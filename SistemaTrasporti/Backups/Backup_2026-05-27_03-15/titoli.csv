@@ -1,0 +1,10 @@
+codice,tipo,stato,prezzo,extra,email
+BIGL-9776,Biglietto,Valido,2.5,,mario.rossi@email.it
+BIGL-9823,Biglietto,Annullato,2.5,,mario.rossi@email.it
+CARN-6028,Carnet,Annullato,20.0,10,mario.rossi@email.it
+ABBN-8074,Abbonamento,Annullato,400.0,31/05/2026|365,mario.rossi@email.it
+BIGL-3073,Biglietto,Annullato,2.5,,Fino@email.it
+CARN-6584,Carnet,Annullato,20.0,10,Fino@email.it
+ABBN-5671,Abbonamento,Annullato,15.0,27/05/2026|7,Fino@email.it
+CARN-9996,Carnet,Valido,20.0,10,Fino@email.it
+BIGL-8602,Biglietto,Valido,2.5,,Fino@email.it

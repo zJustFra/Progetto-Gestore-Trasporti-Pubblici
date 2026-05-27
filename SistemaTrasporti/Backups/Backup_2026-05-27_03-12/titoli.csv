@@ -1,0 +1,5 @@
+codice,tipo,stato,prezzo,extra,email
+BIGL-9776,Biglietto,Valido,2.5,,mario.rossi@email.it
+BIGL-9823,Biglietto,Annullato,2.5,,mario.rossi@email.it
+CARN-6028,Carnet,Annullato,20.0,10,mario.rossi@email.it
+ABBN-8074,Abbonamento,Annullato,400.0,31/05/2026|365,mario.rossi@email.it
