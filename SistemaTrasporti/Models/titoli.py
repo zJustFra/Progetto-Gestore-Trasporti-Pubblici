@@ -2,6 +2,7 @@ from datetime import date, timedelta
 from abc import ABC, abstractmethod
 
 class TitoloViaggio(ABC):
+    # utilizzo ABC per crare una classe astratta che rappresenta solo un concetto astratto per specificare che la classe TitoloViaggio non deve essere creatata direttamente
     # questa mi serve solo come scheletro per i tipi di biglietto veri, non la uso mai da sola
     def __init__(self, codice: str, prezzo: float):
         self._codice = codice
