@@ -39,6 +39,7 @@ class GestoreUtenza:
 
 # area di test
 if __name__ == "__main__":
+    # __name == "__main__" serve a far capire al codice se sta vedendo attivato dal file stesso o dal main, in modo tale da capire se dee far girare il test o no
     print("avvio il test per il gestore utenza")
     
     # creo un repo di prova per non sporcare i dati veri
